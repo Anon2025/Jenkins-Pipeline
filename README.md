@@ -1,0 +1,1 @@
+This repository contains a mock Jenkins pipeline created for an academic assignment. The pipeline demonstrates a typical DevSecOps workflow integrated with GitHub, where changes to the repository automatically trigger the pipeline
