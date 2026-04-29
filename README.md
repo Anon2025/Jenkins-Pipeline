@@ -56,7 +56,4 @@ The pipeline is automatically triggered using Jenkins Poll SCM. Jenkins periodic
 
 * This is a **mock pipeline** created for demonstration purposes only
 * No actual build, testing, or deployment is performed
-* All stages output messages to the Jenkins console
-
-**Author**
-Haris Siakallis
+* All stages output messages to the Jenkins consol
